@@ -959,7 +959,7 @@ I'm not aware of any, if you are please [make a pull request][prs] and add it
 here!
 
 If you would like to further test the accessibility and validity of the DOM
-consider [`jest-axe`](https://github.com/nickcolley/jest-axe). It doesn't
+consider. It doesn't
 overlap with `jest-dom` but can complement it for more in-depth accessibility
 checking (eg: validating `aria` attributes or ensuring unique id attributes).
 
