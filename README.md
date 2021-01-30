@@ -1,15 +1,7 @@
 # MindApp
 
-You want to use [jest][] to write tests that assert various things about the
-state of a DOM. As part of that goal, you want to avoid all the repetitive
-patterns that arise in doing so. Checking for an element's attributes, its text
-content, its css classes, you name it.
+## Cloud Tags with Ruby and Ruby on Rails framework
 
-## This solution
-
-The `@testing-library/jest-dom` library provides a set of custom jest matchers
-that you can use to extend jest. These will make your tests more declarative,
-clear to read and to maintain.
 
 ## Table of Contents
 
