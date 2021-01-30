@@ -1,34 +1,4 @@
-<div align="center">
-<h1>jest-dom</h1>
-
-<a href="https://www.emojione.com/emoji/1f989">
-  <img
-    height="80"
-    width="80"
-    alt="owl"
-    src="https://raw.githubusercontent.com/testing-library/jest-dom/master/other/owl.png"
-  />
-</a>
-
-<p>Custom jest matchers to test the state of the DOM</p>
-
-</div>
-
----
-
-[![Build Status][build-badge]][build]
-[![Code Coverage][coverage-badge]][coverage]
-[![version][version-badge]][package] [![downloads][downloads-badge]][npmtrends]
-[![MIT License][license-badge]][license]
-
-[![All Contributors](https://img.shields.io/badge/all_contributors-28-orange.svg?style=flat-square)](#contributors-)
-[![PRs Welcome][prs-badge]][prs] [![Code of Conduct][coc-badge]][coc]
-
-[![Watch on GitHub][github-watch-badge]][github-watch]
-[![Star on GitHub][github-star-badge]][github-star]
-[![Tweet][twitter-badge]][twitter]
-
-## The problem
+# MindApp
 
 You want to use [jest][] to write tests that assert various things about the
 state of a DOM. As part of that goal, you want to avoid all the repetitive
